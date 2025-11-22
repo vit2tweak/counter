@@ -1,2 +1,0 @@
-# counter
-AI-generated prototype
