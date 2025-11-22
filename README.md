@@ -1,0 +1,2 @@
+# counter
+AI-generated prototype
